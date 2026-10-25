@@ -14,6 +14,14 @@ export const useStyles = makeStyles({
   muted: {
     color: tokens.colorNeutralForeground3,
   },
+  inline: {
+    display: "flex",
+    alignItems: "center",
+    gap: tokens.spacingHorizontalS,
+  },
+  name: {
+    fontWeight: tokens.fontWeightSemibold,
+  },
   skeletonTitle: {
     width: "200px",
     height: "32px",
