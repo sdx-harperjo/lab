@@ -6,5 +6,13 @@
   "publisherPrefix": "lab",
   "repo": "sdx-harperjo/lab",
   "mainRulesetId": 25828787,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-5229.crm.dynamics.com",
+  "devEnvId": "866ad57f-62f8-e3ef-93ed-90e0fb87280b",
+  "devOrgId": "185f4766-96d0-f111-be87-000d3a5cb42b",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-5229.crm.dynamics.com",
+  "testEnvId": "7b5d5663-fa37-e7c9-bee7-c4258517c419",
+  "testOrgId": "115f4766-96d0-f111-be87-000d3a5cb41b",
+  "testProfile": "test"
 }
