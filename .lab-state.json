@@ -29,5 +29,7 @@
   "codeAppScaffolded": true,
   "uiSolutionScaffolded": true,
   "sitemapScaffolded": true,
-  "formsScaffolded": true
+  "formsScaffolded": true,
+  "productTableScaffolded": true,
+  "productTableDeployed": true
 }
